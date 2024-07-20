@@ -43,6 +43,12 @@ Provides a link to download the results as a CSV file.
 Styling (style.css)
 Styles the body, form, table, and other elements to create a clean and user-friendly interface.
 
+# Requirements
+
+- Flask, Pandas
+- Group file ( CSV 1 ) headers should be: Group ID, Members, Gender
+- Hostel file ( CSV 2 ) headers should be: Hostel Name, Room Number, Capacity, Gender
+
 # Example Usage
 
 Upload CSV Files: Users upload the group and hostel information CSV files via the form on the main page.
